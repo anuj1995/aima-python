@@ -1,5 +1,5 @@
 How to Contribute to aima-python
-==========================
+================================
 
 Thanks for considering contributing to `aima-python`! Here is some of the work that needs to be done:
 
